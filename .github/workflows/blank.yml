@@ -1,6 +1,4 @@
-- name: docsify-action
-  # You may pin to the exact commit or the version.
-  # uses: tool3/docsify-action@92300543e415ce7021014eb1481582b434ae64a0
+ name: docsify-action
   uses: tool3/docsify-action@v1.1
   with:
     # github access token
