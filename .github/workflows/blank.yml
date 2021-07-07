@@ -6,7 +6,7 @@
     # destination dir
     dir: docs # optional, default is docs
     # destination branch
-    branch: # optional, default is master
+    branch: main # optional, default is master
     # docsify-cli args
     docsify_args: # optional
     # commit message used when pushing
